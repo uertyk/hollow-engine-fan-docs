@@ -67,7 +67,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'HollowEngine-fan-docs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -77,12 +77,12 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Изучение!',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/uertyk/hollow-engine-fan-docs',
+          label: 'GitHub he-fd',
           position: 'right',
         },
         {
@@ -104,7 +104,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Коммьюнити',
           items: [
             {
               label: 'Stack Overflow',
@@ -112,11 +112,11 @@ const config: Config = {
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/h8P3dWTNey',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'uh.. error',
+              href: 'https://uertyk.github.io/hollow-engine-fan-docs/docs/tutorial-basics/error',
             },
           ],
         },
@@ -128,13 +128,13 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'GitHub he-fd',
+              href: 'https://github.com/uertyk/hollow-engine-fan-docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 0mods.team Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
