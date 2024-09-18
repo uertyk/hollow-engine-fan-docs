@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhollow_engine_fan_docs=self.webpackChunkhollow_engine_fan_docs||[]).push([[9647],{7121:(e,s,n)=>{n.r(s),n.d(s,{default:()=>d});n(6540);var r=n(4164),a=n(1213),c=n(7559),l=n(2831),o=n(781),u=n(4848);function d(e){return(0,u.jsx)(a.e3,{className:(0,r.A)(c.G.wrapper.docsPages),children:(0,u.jsx)(o.A,{children:(0,l.v)(e.route.routes)})})}}}]);
