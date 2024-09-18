@@ -4,6 +4,18 @@ sidebar_position: 1
 
 # Тест!
 
+:::danger ОПАСНО СУКА БЛЯТЬ
+
+ААААА , БЕНДИ ФУРА , ЕБАТЬ ЕГО
+
+:::
+
+:::tip ТИП
+
+Use this awesome feature option
+
+:::
+
 Нуу **Это тест** `ыыы`
 
 - `ы1` → `ы2`
