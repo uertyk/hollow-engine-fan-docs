@@ -22,11 +22,15 @@ val npc by NPCEntity.creating{
 }
 ```
 
----
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Базовый НИП" label="нн" default>
+  <TabItem value="npc" label="Базовый НИП" default>
+    скоро...
+  </TabItem>
+  <TabItem value="anpc" label="Advenced НИП">
+    скоро..
   </TabItem>
 </Tabs>
+---
