@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # !!ВАЖНО!!
 
-![fd.info0001.png](..%2F..%2F..%2Fdocs%2Ffd.info0001.png)
+![info](fd.info0001.png)
 
 ---
 
