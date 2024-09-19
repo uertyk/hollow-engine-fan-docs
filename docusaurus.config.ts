@@ -69,7 +69,7 @@ const config: Config = {
     navbar: {
       title: 'HollowEngine-fan-docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'HE-fd-logo',
         src: 'img/logo.svg',
       },
       items: [
