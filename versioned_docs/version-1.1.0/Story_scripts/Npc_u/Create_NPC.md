@@ -27,7 +27,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="Базовый НИП" label="Banana">
-    скоро
+  <TabItem value="Базовый НИП" label="нн">
   </TabItem>
 </Tabs>
