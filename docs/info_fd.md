@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Информация!
 
-![info](fd.info0001.png "by uertyk_")
+![info](./fd.info0001.png "by uertyk_")
 
 ---
 :::info Это фаная документация!
