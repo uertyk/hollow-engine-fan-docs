@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # НИП (создать)
 Создать НИПа
-![npc.create](npcreate.uertyk.docs0001.png "By uertyk_ (unresoled of offical)")
+![npc.create](npcreate.uertyk.docs0001.png "by uertyk_ (unresoled of ofi)")
 
 ---
 

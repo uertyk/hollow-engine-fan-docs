@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # !!ВАЖНО!!
 
-![info](./fd.info0001.png)
+![info](./fd.info0001.png "by uertyk_")
 
 ---
 
