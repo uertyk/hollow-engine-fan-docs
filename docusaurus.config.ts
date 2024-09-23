@@ -133,12 +133,6 @@ const config: Config = {
             },
           ],
         },
-          title: 'My site',
-          // ...
-          themes: ['@docusaurus/theme-search-algolia'],
-          themeConfig: {
-            // ...
-          },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} 0mods.team Built with Docusaurus.`,
     },
