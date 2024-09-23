@@ -143,9 +143,4 @@ const config: Config = {
   } satisfies Preset.ThemeConfig,
 };
 
-export default {
-  markdown: {
-    mermaid: true,
-  },
-  themes: ['@docusaurus/theme-mermaid'],
-};
+export default config;
